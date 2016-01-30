@@ -7,12 +7,12 @@ body {
   font-family: "Harrington", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: seagreen;
+  color: lightgreen;
   background-color: white; }
 
 
 a {
-  color: skyblue;
+  color: seagreen;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
