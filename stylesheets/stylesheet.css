@@ -4,13 +4,15 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Harrington", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: turquoise; }
+  color: seagreen;
+  background-color: white; }
+
 
 a {
-  color: yellow;
+  color: skyblue;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
